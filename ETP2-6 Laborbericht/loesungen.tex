@@ -3,5 +3,31 @@
 \subsection{Variable}
 
 \begin{enumerate}[a)]
-    \item 
+    \item $2,5 \cdot \sqrt{3} \cdot \sin{(2\pi \cdot (33,3+f_0)) = 4,1182} für $f_0 = 20$
+    \item Betrag von $a$: $3.16$\\
+    Winkel von $a$: $18.43$\\
+    Betrag von $b$: $2.24$\\
+    Winkel von $b$: $-153.43$
+    \item Vektor $v$ wurde erzeugt (\begin{verbatim}v=[1;2;-3;4+j]\end{verbatim}).
+    \item $\omega = v^T = \begin{pmatrix}1+0j&2+0j&-3+0j&4-j\end{pmatrix}
+    \item Matrix $M$ wurde erzeugt (\begin{verbatim}M=[1 0 0;0 j 1;j j+1 -3]\end{verbatim}).
+    \item Matrix $V$ wurde erzeugt (\begin{verbatim}V=[M M;M M]\end{verbatim}).
+    \item Vektor $z4$ wurde erzeugt (\begin{verbatim}z4=V(4,:)\end{verbatim}).
+    \item Der Wert von $V$ in Zeile $4$, Spalte $2$ wurde auf $5,8$ gesetzt (\begin{verbatim}V(4,2)=5.8\end{verbatim}).
+    \item Die Ausgabe von Text mit einer Variablen kann in \emph{Matlab} wie in \emph{C} erfolgen, mit Hilfe von \begin{verbatim}fprintf("Blindleistung = \%d var", Q);\end{verbatim}, wobei man vorher $Q$ definiert und somit den Text \emph{Blindleistung = 40 var} ausgeben lässt (Bei $Q=40$).
+\end{enumerate}
+
+\subsection{Mathematische Operationen}
+
+\begin{enumerate}[a)]
+    \item Die Matritzen $A$ und $B$ wurden definiert (\begin{verbatim}A=[1 2;3 4]\end{verbatim} und \begin{verbatim}B=[1 2;2 4]\end{verbatim}).
+    \item $A$ und $B$ wurden invertiert (\begin{verbatim}A = A'\end{verbatim} und \begin{verbatim}B = B'\end{verbatim}).
+    \item Jedes Element von $A$ wurde mit $3$ multipliziert:\\
+    \begin{verbatim}
+        for m = (1:2)
+           for n = (1:2)
+               A(n,m) = A(n,m)*3
+           end
+        end
+    \end{verbatim}
 \end{enumerate}
