@@ -1,9 +1,9 @@
-PWD c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht
+PWD c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht
 INPUT c:/texlive/2020/texmf.cnf
 INPUT c:/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.tex
-OUTPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.log
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.tex
+OUTPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.log
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
@@ -968,16 +968,16 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
-OUTPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
+OUTPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.aux
 INPUT c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -1035,18 +1035,18 @@ INPUT c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
-OUTPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.pdf
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
-OUTPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
+OUTPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.pdf
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
+OUTPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm
@@ -1067,31 +1067,31 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm7.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.toc
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.toc
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.toc
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.toc
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.toc
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.toc
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm7.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm5.tfm
-OUTPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.toc
+OUTPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.toc
 INPUT c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-OUTPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+OUTPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.tex
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
@@ -1099,29 +1099,33 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecrm0700.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm0700.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecrm0500.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-OUTPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
-INPUT c:/Users/Philippo/Desktop/Uni/S4/Elektrotechnik 2/Labor/ETP2-6/ETP2-6 Laborbericht/main.out
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+OUTPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.tex
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/texlive/2020/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/aufgaben.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/loesungen.aux
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
+INPUT c:/Users/Philipp Riefer/Desktop/Schule/HAW Hamburg/S4/ET2/Labore/ETP2-6/ETP2-6 Laborbericht/main.out
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
@@ -1142,3 +1146,4 @@ INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb
