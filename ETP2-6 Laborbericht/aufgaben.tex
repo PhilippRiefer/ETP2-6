@@ -1,0 +1,73 @@
+\section{Aufgaben}
+
+\subsection{Variable}
+
+\begin{enumerate}[a)] % liste fängt nun mit a) an statt mit 1
+    \item Berechnen Sie $2,5 \cdot \sqrt{3} \cdot \sin{(2\pi \cdot (33.3+f_0))}$ für $f_0 = 20$.
+    \item Berechnen Sie Betrag und Winkel (in Grad) von $a=3+j$ und $b=-2-j$.
+    \item Erzeugen Sie den Vektor $v= \begin{pmatrix}1\\2\\-3\\4+j\end{pmatrix}$
+    \item Berechnen Sie $\omega = v^T$.
+    \item Erzeugen Sie die Matrix $M=\begin{pmatrix}1&0&0\\0&j&1\\j&j+1&-3\end{pmatrix}$.
+    \item Erweitern Sie $M$ zu $V = \begin{pmatrix}M&M\\M&M\end{pmatrix}$.
+    \item Ordnen Sie die 4. Zeile von $V$ einem neuen Vektor $Z_4$ zu.
+    \item Ersetzen Sie in $V$ die Zelle in Zeile 4 und Spalte 2 durch den Wert $5,8$.
+    \item Im Command-Window soll folgender Text ausgegeben werden: \enquote{\emph{Blindleistung = <Q> var}}. Anstatt \emph{<Q>} soll dabei variabel der Wert erscheinen, den \emph{Q} durch vorherige Operationen erhalten hat. Weisen Sie in diesem Fall $Q$ den Wert $40$ zu. Informieren Sie sich in der Matlab-Hilfe über die Funktionen \emph{num2str} und \emph{disp} oder \emph{sprintf}.
+\end{enumerate}
+
+\subsection{Mathematische Operationen}
+
+\begin{enumerate}[a)]
+    \item Definieren Sie $A=\begin{pmatrix}1&2\\3&4\end{pmatrix}$ und $B=\begin{pmatrix}1&2\\2&4\end{pmatrix}$.
+    \item Invertieren Sie $A$ und $B$.
+    \item Multiplizieren Sie jedes Element von $A$ mit $3$.
+    \item Multiplizieren Sie $A$ und $B$.
+    \item Multiplizieren Sie $A$ und $B$ elementweise.
+    \item Erzeugen Sie einen Zeitvektor $t=(0,0 \; \; 0,1 \; \; 0,2 \; \; \dots \; \; 0,5)$
+    \item Berechnen Sie für alle Elemente $t_i$ von $t$ die Funktionswerte\\
+    $y_i = \sin{(2\pi \cdot 6 \cdot t_i)} \cdot \cos{(2\pi \cdot 3 \cdot t_i)} + e^{-0,1 \cdot t_i}$ und weisen Sie sie einem Vektor $y$ zu.
+    \item Berechnen Sie für alle Elemente $t_i$ von $t$ die Funktionswerte\\
+    $z_i = \sin{(2\pi \cdot 6 \cdot t_i)} \cdot \cos{(2\pi \cdot 3 \cdot t_i)} + e^{-0,1 \cdot t_i}$ und weisen Sie sie einem Vektor $z$ zu.
+    \item Stellen Sie $t$, $y$ und $z$ als dreispaltige Matrix mit dem Namen \enquote{TAB} dar.
+    \item Der Vektor $p=(1024 \; \; 1000 \; \; 100 \; \; 2 \; \; 1 \; \; \frac{1}{\sqrt{2}})$ enthalte Leistungsverstärkungen verschiedener Verstärkerschaltungen. Berechnen Sie die zugehörigen Werte in $dB$.
+\end{enumerate}
+
+\subsection{Grafische Ausgabe}
+
+\begin{enumerate}[a)]
+    \item Weisen Sie einem Vektor $t$ für den Zeitbereich $0 \dots 2s$ die folgenden Spannungen zu:\\
+    $u_1$ sei eine $3V$-Sinusspannung mit einer Frequenz von $3Hz$,\\
+    $u_2$ sei eine um $-30\textrm{°}$ phasenverschobene $5V$-Kosinusspannung mit einer Frequenz von $5 Hz$,\\
+    $u_3$ sei eine von $6V$ abklingend3e Exponentialfunktion mit der Zeitkonstante $\tau = 2s$.
+    \item Stellen Sie diese drei Spannungen folgendermaßen dar:
+    \begin{enumerate}[i)]
+        \item in getrennte Plotfenster (\emph{figure}),
+        \item verschiedenfarbig in ein Plotfenster (\emph{plot}),
+        \item in ein Plotfenster mit drei Unterfenstern (\emph{subplot}).
+    \end{enumerate}
+    \item Dokumentieren Sie die Ergebnisse aus iii) mit den Farben von ii) in einem MS-Word- oder OpenOffive-Dokument.\\
+    Stellen Sie die Grafiken dazu einheitlich je in einem $\pm7,5V$-Messfenster dar, betiteln und beschriften Sie sie sinnvoll und versehen Sie sie mit einem Gitternetz.
+\end{enumerate}
+
+\subsection{Programmierung}
+
+Erstellen Sie ein neues m-File (Matlab-Skript-File) und erstellen Sie die Befehle für das folgende Programm. Testen Sie anschließend Ihr m-File durch Eingabe des Dateinamens.
+
+Definieren Sie einen Zeitvektor $t$ für den Zeitbereich $0 \dots 40ms$ und ein $10\mu s$-Raster. Berechnen Sie für die in $t$ angegebenen Zeiten $t_i$ die Summe
+\begin{align*}
+    u(t_i) &= \sum_{k=1}^{k_{max}} u_k (t_i)
+\end{align*}
+
+der Signale $u_k$, wobei jedes Signal $u_k$ sinusförmig mit der Frequenz $f_k = k*50Hz$ ist, die Amplitude $A_k = 0$ für gerade $k$ bzw $A_k = \frac{4}{k\pi}$ für ungerade $k$ besitzt und $k_{max} = 50$ beträgt.
+
+Verwenden Sie dazu eine \emph{for ... end} Schleife und stellen Sie die Summenfunktion graphisch dar. (Tipp: nutzen Sie die Schrittweite $2$ in der for-Schleife). Experimentieren Sie mit unterschiedlichen Werten von $k_{max}$ und finden Sie heraus, wieviele Schwingungen überlagert werden müssen, um eine hinreichende Qualität der Wellenform zu erreichen.
+
+\subsection{Funktionen}
+
+\begin{itemize}
+    \item Schreiben Sie eine MATLAB Funktion \emph{test} zur Berechnung der nichtlinearen Kennlinie
+    \begin{align*}
+        y &= \{_{-(1-e^x) \; \textrm{für} \; x<0}^{1-e^{-x} \; \textrm{für} \; x \geq 0}\textrm{.}
+    \end{align*}
+    \item Die Funktion \emph{test} soll dann durch den Aufruf von \emph{test(x)} den jeweiligen Funktionswert für $x$ zurückliefern. Die Funktion soll so geschrieben sein, dass $x$ eine Zahl, aber auch ein Zeilenvektor sein darf.
+    \item Plotten Sie den Graph dieser Kennlinie im Bereich $-5 \leq x \leq 5$.
+\end{itemize}

@@ -1,0 +1,83 @@
+\documentclass{article}
+
+\usepackage[a4paper, total={6in, 9in}]{geometry}
+% zum einstellen der Seitenränder
+
+\usepackage{color,soul}
+% zum Highlighten
+
+\usepackage{ziffer}
+% um ein Komma als Dezimaltrenner zu benutzen
+
+\usepackage{caption}
+% \captionsetup{format=hang}
+% damit die captions richtig sind
+
+\usepackage[utf8]{inputenc}
+% UTF-8 als Zeichenkodierung verwenden
+
+\usepackage[ngerman]{babel}
+% deutsche Silbentrennung und deutsche Übersetzung
+
+\usepackage[T1]{fontenc}
+% westeuropäische Schriftkodierung verwenden
+
+\usepackage{upgreek}
+% andere Griechische Buchstaben
+
+\usepackage{graphicx}
+% Befehl \includegraphics für Abbildungen
+
+\usepackage{float}
+% \begin{figure}[h] for placing images approx. here
+% \begin{figure}[H] for placing images exactly here
+
+\usepackage[german=guillemets]{csquotes}
+% Befehl \enquote für Anführungszeichen
+
+\usepackage{amsmath}
+% Umgebung "align" für ausgerichtete Formeln (setz ein & vor dem Charakter nach welchem ausgerichtet werden soll, und einen Zeilenumbruch mit \\. Begin align end align) 
+
+\usepackage{mathtools}
+% benutz \label{NameDerGleichung} um dieser Gleichung eine Nummer zu geben und diese im Text referenzieren zu können (\autoref{NameDerGleichung})
+
+\usepackage[breaklinks=true]{hyperref}
+% bessere Unterstützung der PDF-Ausgabe
+
+% \input{} packt ausgelagerten text einfach an genau diese stelle (gedacht für style options oder so)
+% \include{} ist für ausgelagerte kapitel gedacht
+% \leavevmode\newline after figures or math sections to create more space
+
+\renewcommand\labelitemi{-}
+% \begin{itemize} hat nun im ersten level einen dash statt einem bullet point
+
+\usepackage{pgfplots}
+\pgfplotsset{width=0.5\textwidth,compat=1.9}
+% um graphen direkt in latex zu erstellen
+
+\usepackage{lipsum}
+% um einen lorem ipsum text zu kreieren
+
+\usepackage{enumerate}
+
+\usepackage{textcomp}
+
+\title{\textbf{ETP 2-6}\\Matlab im PC-Labor\\Einführung in das grundlegende Arbeiten mit Matlab}
+\author{Philipp Riefer, Hasim Kurt}
+\date{Januar 2021}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\clearpage
+
+\pagebreak
+
+\include{aufgaben}
+
+\pagebreak
+
+\include{loesungen}
+
+\end{document}
